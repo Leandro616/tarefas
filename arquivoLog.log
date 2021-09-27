@@ -1,0 +1,32 @@
+Exception não tratada no helloword
+java.lang.ArithmeticException: / by zero
+	at br.com.tarefas.test.HelloWordLog.dividir(HelloWordLog.java:17)
+	at br.com.tarefas.test.HelloWordLog.main(HelloWordLog.java:9)
+2021-05-16 11:27:42,416 {yyyy-MM-dd HH:mm:ss} ERROR HelloWordLog:12 -Exception não tratada no helloword
+java.lang.ArithmeticException: / by zero
+	at br.com.tarefas.test.HelloWordLog.dividir(HelloWordLog.java:17)
+	at br.com.tarefas.test.HelloWordLog.main(HelloWordLog.java:9)
+2021-05-16 11:54:39,770 {yyyy-MM-dd HH:mm:ss} ERROR HelloWordLog:12 -Exception não tratada no helloword
+java.lang.ArithmeticException: / by zero
+	at br.com.tarefas.test.HelloWordLog.dividir(HelloWordLog.java:17)
+	at br.com.tarefas.test.HelloWordLog.main(HelloWordLog.java:9)
+2021-05-16 11:59:31,281 {yyyy-MM-dd HH:mm:ss} ERROR HelloWordLog:12 -Exception não tratada no helloword
+java.lang.ArithmeticException: / by zero
+	at br.com.tarefas.test.HelloWordLog.dividir(HelloWordLog.java:17)
+	at br.com.tarefas.test.HelloWordLog.main(HelloWordLog.java:9)
+2021-05-16 12:00:04 ERROR HelloWordLog:12 -Exception não tratada no helloword
+java.lang.ArithmeticException: / by zero
+	at br.com.tarefas.test.HelloWordLog.dividir(HelloWordLog.java:17)
+	at br.com.tarefas.test.HelloWordLog.main(HelloWordLog.java:9)
+2021-05-16 12:01:39 ERROR HelloWordLog:12 -Exception não tratada no helloword
+java.lang.ArithmeticException: / by zero
+	at br.com.tarefas.test.HelloWordLog.dividir(HelloWordLog.java:17)
+	at br.com.tarefas.test.HelloWordLog.main(HelloWordLog.java:9)
+16/05/21 12:02 [main] ERROR br.com.tarefas.test.HelloWordLog:12 â Exception não tratada no helloword
+java.lang.ArithmeticException: / by zero
+	at br.com.tarefas.test.HelloWordLog.dividir(HelloWordLog.java:17)
+	at br.com.tarefas.test.HelloWordLog.main(HelloWordLog.java:9)
+16/05/21 12:04 [main] ERROR br.com.tarefas.test.HelloWordLog:12 â Exception não tratada no helloword
+java.lang.ArithmeticException: / by zero
+	at br.com.tarefas.test.HelloWordLog.dividir(HelloWordLog.java:17)
+	at br.com.tarefas.test.HelloWordLog.main(HelloWordLog.java:9)
